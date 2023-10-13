@@ -22,9 +22,8 @@ Skills: PHP/BOOSTRAP / REACT / JS / HTML / CSS
 
 
 
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafiz72&show_icons=true&count_private=true)  
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mostafiz72)  
 
