@@ -14,12 +14,12 @@
 
 I am a full-stack developer and creative designer, I have extensive experience developing projects from ideation to deployment. I thrive on creative problem-solving, using my technical skills and artistic vision to build elegant solutions. I am always eager to explore new techniques and technologies to further hone my skills.
 
+
 Skills: MongoDB/Tailwind / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Youtube 
 - 🌱 I’m currently learning Pythone 
 - 👯 I’m looking to collaborate on Web developer 
-
 
 ###
 
@@ -43,15 +43,13 @@ Skills: MongoDB/Tailwind / REACT / JS / HTML / CSS
 
 ###
 
- 
-
-
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafiz&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafiz72&show_icons=true&theme=radical)
+
   
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mostafiz72)  
