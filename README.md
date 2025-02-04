@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://letmefail.com/wp-content/uploads/2022/09/github-readme-profile-1.png" />
+  ![Your Awesome GitHub Background](https://your-image-url.com/animated-background.gif)
+
 </p>
 
 ### Hi there 👋, I'm Mostafiz  
