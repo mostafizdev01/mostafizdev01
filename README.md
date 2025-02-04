@@ -79,7 +79,7 @@ I am a full-stack developer and creative designer. I have extensive experience d
 
 ### 🔥 GitHub Streak Stats  
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=mostafiz72&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mostafiz72&theme=radical&hide_border=true" alt="GitHub Streak" height="300" />
 </p>
 
 
