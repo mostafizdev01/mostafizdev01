@@ -50,14 +50,12 @@ Skills: MongoDB/Tailwind / REACT / JS / HTML / CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafiz72&show_icons=true&theme=radical)
 
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mostafiz72)  
   
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mostafiz72&theme=radical)
 
 
-![GitHub Metrics](https://metrics.lecoq.io/mostafiz72)
+![Profile Views](https://gpvc.arturio.dev/mostafiz72)
 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mostafiz72)  
-
-![Profile views](https://gpvc.arturio.dev/mostafiz72)  
