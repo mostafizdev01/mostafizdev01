@@ -40,7 +40,7 @@ I am a full-stack developer and creative designer. I have extensive experience d
 - 👯 I’m looking to collaborate on **Web development projects**  
 
 ### 🌐 Connect with me  
-<p align="center">
+<p align="left">
   <a href="https://www.facebook.com/profile.php?id=100090030995475" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" />
   </a>
@@ -59,7 +59,7 @@ I am a full-stack developer and creative designer. I have extensive experience d
 </p>
 
 ### 🎖 GitHub Badges  
-<p align="center">
+<p align="left">
   <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
   <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
   <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
@@ -68,12 +68,12 @@ I am a full-stack developer and creative designer. I have extensive experience d
 </p>
 
 ### 📊 GitHub Stats  
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mostafiz72&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=mostafiz72" alt="GitHub Streak Stats" />
 </p>
 
 ### 📈 GitHub Activity  
-<p align="center">
+<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafiz72&theme=radical" />
 </p>
