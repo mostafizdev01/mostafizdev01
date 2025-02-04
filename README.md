@@ -68,11 +68,8 @@ I am a full-stack developer and creative designer. I have extensive experience d
   <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 </p>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
-  <circle cx="50" cy="50" r="30" fill="blue">
-    <animate attributeName="r" from="30" to="50" dur="1s" begin="0s" repeatCount="indefinite"/>
-  </circle>
-</svg>
+<img src="https://raw.githubusercontent.com/mostafiz72/mostafiz72/output/snake.svg" alt="Snake animation" />
+
 
 
 ### 📊 GitHub Stats  
