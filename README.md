@@ -80,11 +80,6 @@ I am a full-stack developer and creative designer. I have extensive experience d
 ###
 </p>
 
-### 📈 GitHub Contributions
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafiz72&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=github_dark" hieght="200" />
-</p>
-
 
 ### 📈 GitHub Activity  
 <p align="left" theme=github-dark>
