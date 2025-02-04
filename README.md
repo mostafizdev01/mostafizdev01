@@ -14,10 +14,10 @@
 
 I am a full-stack developer and creative designer, I have extensive experience developing projects from ideation to deployment. I thrive on creative problem-solving, using my technical skills and artistic vision to build elegant solutions. I am always eager to explore new techniques and technologies to further hone my skills.
 
-Skills: PHP/BOOSTRAP / REACT / JS / HTML / CSS
+Skills: MongoDB/Tailwind / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Youtube 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Pythone 
 - 👯 I’m looking to collaborate on Web developer 
 
 
