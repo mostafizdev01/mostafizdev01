@@ -1,7 +1,9 @@
 <p align="left">
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 </p>
-
+<p>
+ <img src="https://raw.githubusercontent.com/mostafiz72/mostafiz72/output/snake.svg" alt="Snake animation" />
+</p>
 ### Hi there 👋, I'm Mostafiz  
 #### Web Developer  
 
