@@ -57,5 +57,3 @@ Skills: MongoDB/Tailwind / REACT / JS / HTML / CSS
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mostafiz72&theme=radical)
 
 
-![Profile Views](https://gpvc.arturio.dev/mostafiz72)
-
