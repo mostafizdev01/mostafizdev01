@@ -1,7 +1,5 @@
 <p align="center">
-  ![GitHub Background](https://media.giphy.com/media/xT77XGWy4IRCeRbWg0/giphy.gif?cid=ecf05e47yz5hp0afwp88f0mlxw2h4gmamjplvmxp8335xuhs&ep=v1_gifs_related&rid=giphy.gif&ct=g)
-
-
+ <img src="https://camo.githubusercontent.com/d51e311102093b5e3a79428abffaa40b8d4aa55e1f7ef0cd0418b0edf01e2351/68747470733a2f2f6c65746d656661696c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30392f6769746875622d726561646d652d70726f66696c652d312e706e67" height="200" alt="html5 logo" />
 </p>
 
 ### Hi there 👋, I'm Mostafiz  
