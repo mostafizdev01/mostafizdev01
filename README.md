@@ -86,7 +86,7 @@ I am a full-stack developer and creative designer. I have extensive experience d
 
 ### 📈 GitHub Activity  
 <p align="left" theme=github-dark>
-  <img theme=github-dark src="https://github-readme-activity-graph.vercel.app/graph?username=mostafiz72&theme=github_dark&hide_border=false&order=1" />
+  <img theme=github-dark src="https://github-readme-activity-graph.vercel.app/graph?username=mostafiz72&theme=github_dark" />
 </p>
 
 
