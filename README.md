@@ -1,9 +1,7 @@
 <p align="left">
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 </p>
-<p>
- <img src="https://raw.githubusercontent.com/mostafiz72/mostafiz72/output/snake.svg" alt="Snake animation" />
-</p>
+
 ### Hi there 👋, I'm Mostafiz  
 #### Web Developer  
 
@@ -69,6 +67,13 @@ I am a full-stack developer and creative designer. I have extensive experience d
   <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
   <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 </p>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <circle cx="50" cy="50" r="30" fill="blue">
+    <animate attributeName="r" from="30" to="50" dur="1s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+</svg>
+
 
 ### 📊 GitHub Stats  
 <p align="left">
