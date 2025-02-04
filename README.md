@@ -33,17 +33,15 @@ I am a full-stack developer and creative designer. I have extensive experience d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-<div>
+<br>
   
-</div>
+</br>
 
 - 🔭 I’m currently working on **YouTube**  
 - 🌱 I’m currently learning **Python**  
 - 👯 I’m looking to collaborate on **Web development projects**  
 
-<div>
-  
-</div>
+<br></br>
 
 ### 🌐 Connect with me  
 <p align="left">
