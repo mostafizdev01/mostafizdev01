@@ -24,20 +24,16 @@ Skills: MongoDB/Tailwind / REACT / JS / HTML / CSS
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <a href="https://www.facebook.com/profile.php?id=100090030995475" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/md-mostafiz-8233a2324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="@mostafiz5662" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="01319306973" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   <a href="https://x.com/Mostafiz675662" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="mostafiz4372@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbhMjDSdGPXSSrlvTjrbRQPqdwMBdCRZbPsRjvlJgXCHjpJkkMxpJpKGljpmdzhtKhjpTp" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UC20N3vdgKAtvQvUro0OmOrA" target="_blank">
@@ -46,6 +42,7 @@ Skills: MongoDB/Tailwind / REACT / JS / HTML / CSS
 </div>
 
 ###
+
  
 
 
