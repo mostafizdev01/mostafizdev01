@@ -68,7 +68,8 @@ I am a full-stack developer and creative designer. I have extensive experience d
   <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/mostafiz72/mostafiz72/output/snake.svg" alt="Snake animation" />
+![Snake Animation](https://your-gif-url.com/snake-animation.gif)
+
 
 
 
