@@ -49,8 +49,8 @@ Skills: MongoDB/Tailwind / REACT / JS / HTML / CSS
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafiz72&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=mostafiz72" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafiz72&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
   
