@@ -33,11 +33,17 @@ I am a full-stack developer and creative designer. I have extensive experience d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-
+<div>
+  
+</div>
 
 - 🔭 I’m currently working on **YouTube**  
 - 🌱 I’m currently learning **Python**  
 - 👯 I’m looking to collaborate on **Web development projects**  
+
+<div>
+  
+</div>
 
 ### 🌐 Connect with me  
 <p align="left">
@@ -75,7 +81,8 @@ I am a full-stack developer and creative designer. I have extensive experience d
 
 ### 📈 GitHub Activity  
 <p align="left" theme=github-dark>
-  <img theme=github-dark src="https://github-readme-activity-graph.vercel.app/graph?username=mostafiz72&theme=highcontrast" />
+  <img theme=github-dark src="https://github-readme-activity-graph.vercel.app/graph?username=mostafiz72&theme=dracula" />
 </p>
+
 
 
