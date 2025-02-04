@@ -75,9 +75,13 @@ I am a full-stack developer and creative designer. I have extensive experience d
   <img src="https://github-readme-stats.vercel.app/api?username=mostafiz72&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafiz72&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
 </p>
+
+### 🔥 GitHub Streak Stats  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mostafiz72&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 
 ### 📈 GitHub Activity  
