@@ -35,6 +35,7 @@ I am a full-stack developer and creative designer. I have extensive experience d
 
 <br>
 </br>
+
 - 🔭 I’m currently working on **YouTube**  
 - 🌱 I’m currently learning **Python**  
 - 👯 I’m looking to collaborate on **Web development projects**  
