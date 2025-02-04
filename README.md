@@ -48,10 +48,11 @@ Skills: MongoDB/Tailwind / REACT / JS / HTML / CSS
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafiz72&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafiz72&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mostafiz72" alt="GitHub Streak Stats" />
+</p>
 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mostafiz72)  
   
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mostafiz72&theme=radical)
