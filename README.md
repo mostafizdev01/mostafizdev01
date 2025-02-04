@@ -1,5 +1,6 @@
 <p align="center">
-  [![Your Awesome GitHub Background](https://your-image-url.com/animated-background.gif)](https://media.giphy.com/media/xT77XGWy4IRCeRbWg0/giphy.gif?cid=ecf05e47yz5hp0afwp88f0mlxw2h4gmamjplvmxp8335xuhs&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+  ![GitHub Background](https://media.giphy.com/media/xT77XGWy4IRCeRbWg0/giphy.gif?cid=ecf05e47yz5hp0afwp88f0mlxw2h4gmamjplvmxp8335xuhs&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+
 
 </p>
 
