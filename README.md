@@ -72,21 +72,21 @@ I am a full-stack developer and creative designer. I have extensive experience d
 ### 📊 GitHub Stats  
 <p align="left">
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafiz72&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafiz72&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafizdev01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafizdev01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 </p>
 
 ### 🔥 GitHub Streak Stats  
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=mostafiz72&theme=github_dark&hide_border=false&order=2" alt="GitHub Streak" height="200" />
+  <img src="https://streak-stats.demolab.com?user=mostafizdev01&theme=github_dark&hide_border=false&order=2" alt="GitHub Streak" height="200" />
 </p>
 
 
 
 ### 📈 GitHub Activity  
 <p align="left" theme=github-dark>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafiz72&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafizdev01&theme=github-dark" />
 </p>
 
 
