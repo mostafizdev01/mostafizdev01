@@ -37,7 +37,7 @@ I am a full-stack developer and creative designer. I have extensive experience d
 </br>
 
 - 💻 I’m currently working on **Next Js**  
-- 🌱 I’m currently learning **Pythone**  
+- 🌱 I’m currently learning **DBMS**  
 - 👯 I’m looking to collaborate on **Web development projects**  
 
 ### 🌐 Connect with me  
