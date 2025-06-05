@@ -36,7 +36,7 @@ I am a full-stack developer and creative designer. I have extensive experience d
 <br>
 </br>
 
-- 💻 I’m currently working on **Next Js**  
+- 💻 I’m currently working on **MOngo DB**  
 - 🌱 I’m currently learning **Node Js**  
 - 👯 I’m looking to collaborate on **Web development projects**  
 
