@@ -36,8 +36,8 @@ I am a full-stack developer and creative designer. I have extensive experience d
 <br>
 </br>
 
-- 💻 I’m currently working on **MOngo DB**  
-- 🌱 I’m currently learning **Typescript**  
+- 💻 I’m currently working on **Web development**  
+- 🌱 I’m currently learning **AI**  
 - 👯 I’m looking to collaborate on **Web development projects**  
 
 ### 🌐 Connect with me  
