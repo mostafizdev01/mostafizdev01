@@ -11,7 +11,7 @@ I am a full-stack developer and creative designer. I have extensive experience d
 **Skills:**  
 
 <div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/firefox-os-vertical.svg" height="24px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/firefox-os-vertical.svg" height="24px" width="24px" alt="html5 logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24" alt="css3 logo" />
   <img width="8" />
