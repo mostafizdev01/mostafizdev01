@@ -12,7 +12,7 @@ I am a full-stack developer and creative designer. I have extensive experience d
 
 <div align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/firefox-os-vertical.svg" height="50px" width="50px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="80px" width="80px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="50px" width="50px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/firefox-os-vertical.svg" height="80px" width="80px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/firefox-os-vertical.svg" height="80px" width="80px" alt="html5 logo" />
   
