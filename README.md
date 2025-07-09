@@ -17,7 +17,7 @@ I am a full-stack developer and creative designer. I have extensive experience d
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" height="80px" width="80px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="80px" width="80px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="80px" width="80px" alt="html5 logo" />
+  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" height="80px" width="80px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="80px" width="80px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="80px" width="80px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="80px" width="80px" alt="html5 logo" />
