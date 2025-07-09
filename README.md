@@ -30,7 +30,7 @@ I am a full-stack developer and creative designer. I have extensive experience d
   <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="80px" width="80px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" height="80px" width="80px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" height="80px" width="80px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" height="80px" width="80px" alt="github logo" />
   
 </div>
 
