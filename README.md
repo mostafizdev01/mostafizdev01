@@ -23,7 +23,7 @@ I am a full-stack developer and creative designer. I have extensive experience d
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="80px" width="80px" alt="html5 logo" />
   <img src="https://slack.mongoosejs.io/images/mongoose.svg" height="80px" width="80px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" height="80px" width="80px" alt="html5 logo" />
+  <img src="https://www.svgrepo.com/show/354210/prisma.svg" height="80px" width="80px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" height="80px" width="80px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" height="80px" width="80px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" height="80px" width="80px" alt="html5 logo" />
