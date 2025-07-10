@@ -11,26 +11,26 @@ I am a full-stack developer and creative designer. I have extensive experience d
 **Skills:**  
 
 <div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="70px" width="70px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="70px" width="70px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" height="70px" width="70px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="70px" width="70px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://slack.mongoosejs.io/images/mongoose.svg" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://www.svgrepo.com/show/373776/light-prisma.svg" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="80px" width="80px" alt="git logo" />
-  <img src="https://www.svgrepo.com/show/475654/github-color.svg" height="80px" width="80px" alt="github logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="50px" width="50px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="50px" width="50px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" height="50px" width="50px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" height="50px" width="50px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="50px" width="50px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="50px" width="50px" alt="html5 logo" />
+  <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" height="50px" width="50px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="50px" width="50px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="50px" width="50px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="50px" width="50px" alt="html5 logo" />
+  <img src="https://slack.mongoosejs.io/images/mongoose.svg" height="50px" width="50px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" height="50px" width="50px" alt="html5 logo" />
+  <img src="https://www.svgrepo.com/show/373776/light-prisma.svg" height="50px" width="50px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" height="50px" width="50px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" height="50px" width="50px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" height="50px" width="50px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="50px" width="50px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" height="50px" width="50px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="50px" width="50px" alt="git logo" />
+  <img src="https://www.svgrepo.com/show/475654/github-color.svg" height="50px" width="50px" alt="github logo" />
   
 </div>
 
