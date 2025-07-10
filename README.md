@@ -11,11 +11,11 @@ I am a full-stack developer and creative designer. I have extensive experience d
 **Skills:**  
 
 <div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="80px" width="80px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="70px" width="70px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="70px" width="70px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" height="80px" width="80px" alt="html5 logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="80px" width="80px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" height="70px" width="70px" alt="html5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="70px" width="70px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="80px" width="80px" alt="html5 logo" />
   <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" height="80px" width="80px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="80px" width="80px" alt="html5 logo" />
