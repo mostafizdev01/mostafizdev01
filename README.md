@@ -18,23 +18,19 @@ I am a full-stack developer and creative designer. I have extensive experience d
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="60px" width="60px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="60px" width="60px" alt="html5 logo" />
  
-  <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
   <style>
-    /* ডিফল্ট (লাইট মোড) */
-    .light-mode-icon { display: block; }
-    .dark-mode-icon { display: none; }
-
-    /* ডার্ক মোডের জন্য */
+    .light { display: block; }
+    .dark { display: none; }
     @media (prefers-color-scheme: dark) {
-      .light-mode-icon { display: none; }
-      .dark-mode-icon { display: block; }
+      .light { display: none; }
+      .dark { display: block; }
     }
   </style>
-
-  <image class="light-mode-icon" href="https://www.svgrepo.com/show/354113/nextjs-icon.svg" x="0" y="0" width="100" height="100"/>
-
-  <image class="dark-mode-icon" href="https://www.svgrepo.com/show/353399/ansible.svg" x="0" y="0" width="100" height="100"/>
+  <image class="light" href="https://www.svgrepo.com/show/354113/nextjs-icon.svg" x="0" y="0" height="200" width="200"/>
+  <image class="dark" href="https://www.svgrepo.com/show/353399/ansible.svg" x="0" y="0" height="200" width="200"/>
 </svg>
+
   
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="60px" width="60px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="60px" width="60px" alt="html5 logo" />
