@@ -17,7 +17,25 @@ I am a full-stack developer and creative designer. I have extensive experience d
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" height="60px" width="60px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="60px" width="60px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="60px" width="60px" alt="html5 logo" />
-  <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" height="60px" width="60px" alt="html5 logo" />
+ 
+  <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* ডিফল্ট (লাইট মোড) */
+    .light-mode-icon { display: block; }
+    .dark-mode-icon { display: none; }
+
+    /* ডার্ক মোডের জন্য */
+    @media (prefers-color-scheme: dark) {
+      .light-mode-icon { display: none; }
+      .dark-mode-icon { display: block; }
+    }
+  </style>
+
+  <image class="light-mode-icon" href="https://www.svgrepo.com/show/354113/nextjs-icon.svg" x="0" y="0" width="100" height="100"/>
+
+  <image class="dark-mode-icon" href="https://www.svgrepo.com/show/353399/ansible.svg" x="0" y="0" width="100" height="100"/>
+</svg>
+  
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="60px" width="60px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="60px" width="60px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="60px" width="60px" alt="html5 logo" />
