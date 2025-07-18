@@ -38,7 +38,7 @@ I am a full-stack developer and creative designer. I have extensive experience d
 </br>
 
 - 💻 I’m currently working on **Web development**  
-- 🌱 I’m currently learning **MongoDB**  
+- 🌱 I’m currently learning **Mongoose**  
 - 👯 I’m looking to collaborate on **Web development projects**  
 
 ### 🌐 Connect with me  
