@@ -40,7 +40,7 @@ I am a full-stack developer and creative designer. I have extensive experience d
 </br>
 
 - 💻 I’m currently working on **Web development**  
-- 🌱 I’m currently learning **TypeScript MongoDB && Mongoose**  
+- 🌱 I’m currently learning **TypeScript**  
 - 👯 I’m looking to collaborate on **Web development projects**  
 
 ### 🌐 Connect with me  
