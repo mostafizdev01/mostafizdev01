@@ -37,7 +37,6 @@ I am a full-stack developer and creative designer. I have extensive experience d
 <!--   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="60px" width="60px" alt="html5 logo" /> -->
 <!--   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="60px" width="60px" alt="html5 logo" /> -->
 <!--   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="60px" width="60px" alt="html5 logo" /> -->
-<!--   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="60px" width="60px" alt="html5 logo" /> -->
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="60px" width="60px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="60px" width="60px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" height="60px" width="60px" alt="html5 logo" />
