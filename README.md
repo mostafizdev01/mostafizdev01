@@ -1,4 +1,4 @@
-<p align="left">
+-<p align="left">
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 </p>
 
@@ -31,6 +31,8 @@ I am a full-stack developer and creative designer. I have extensive experience d
   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" height="60px" width="60px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" height="60px" width="60px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" height="60px" width="60px" alt="html5 logo" />
+<!--   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="60px" width="60px" alt="html5 logo" /> -->
+<!--   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="60px" width="60px" alt="html5 logo" /> -->
 <!--   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="60px" width="60px" alt="html5 logo" /> -->
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="60px" width="60px" alt="html5 logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="60px" width="60px" alt="html5 logo" />
